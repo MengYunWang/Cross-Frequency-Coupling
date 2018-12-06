@@ -25,7 +25,7 @@ _Hyafil, A., Giraud, A. L., Fontolan, L., & Gutkin, B. (2015). Neural cross-freq
 ## How to compute **PAC**?
 The quantification of **PAC** is based on Euler’s formula. The length of the average vector is the measure of **PAC** (_Canolty et al., 2006_):
 
-PAC= |n^(-1) ∑_(t=1)^n▒〖a_t e^iθt 〗|
+![](https://github.com/MengYunWang/CFC/blob/master/formula.jpg)
 
 where t is time point, a is the power of a high frequency at time point t, i is the imaginary operator, θ is the phase angle of a low frequency at time point t, and n is the total number of time points.
 
